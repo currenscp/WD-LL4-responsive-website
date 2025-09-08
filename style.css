@@ -1,6 +1,11 @@
 
-/* Use sans-serif for the whole page */
+/* Use Courier New for all text except CTA button */
 body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/* Keep CTA button sans-serif for readability */
+.cta-button {
   font-family: sans-serif;
 }
 
