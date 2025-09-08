@@ -4,11 +4,6 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
-/* Keep CTA button sans-serif for readability */
-.cta-button {
-  font-family: sans-serif;
-}
-
 /* Set hero section background color */
 .hero {
   background-color: #fff7e1;
