@@ -2,9 +2,17 @@
 /* Use Courier New for all text except CTA button */
 body {
   font-family: 'Courier New', Courier, monospace;
+  background-color: #fff; /* Pure white background for the whole page */
 }
 
 /* Set hero section background color */
+
+/* Header background color */
+header {
+  background-color: #fff7e1;
+}
+
+/* Hero image section background color */
 .hero {
   background-color: #fff7e1;
 }
